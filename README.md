@@ -18,8 +18,8 @@ Don't treat this as a polished final account. It's an evolving archive of what I
 - 📸 **[Photos](./Photos/)**
 - 🎙️ **[Recordings](./Recordings/)**
 - ⚖️ **[Human Rights](./humanrights.md)**
-- :eyes: **[Application](./Application/)**
-- :skull: **[Torture](./Torture/)**
+- 👀 **[Application](./Application/)**
+- 💀 **[Torture](./Torture/)**
 
 ---
 
