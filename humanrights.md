@@ -1,3 +1,113 @@
+# ⚠️ The Mental Health and Wellbeing Act 2022: Is Victoria's System Allowing Torture to Happen?
+
+> ## My contention
+>
+> I believe Victoria's **Mental Health and Wellbeing Act 2022** creates and maintains powers that can enable coercive psychiatric intervention.
+>
+> My concern is that when those powers are misused, poorly supervised, or used alongside conduct causing severe physical or psychological suffering, the system may **allow treatment to cross the line into cruel, inhuman or degrading treatment, or potentially torture**.
+>
+> This is an allegation and legal argument that should be tested against the evidence and the applicable law. It is not presented here as a court finding.
+
+---
+
+## 🧠 Why This Matters
+
+Mental-health legislation operates in an area where the State can exercise enormous power over an individual.
+
+The central question I am asking is:
+
+> **What happens when powers intended for treatment and protection are instead used in circumstances that cause severe and prolonged suffering?**
+
+Calling something "treatment" does not automatically answer whether the way a person was treated was lawful or compatible with their human rights.
+
+---
+
+# ⚖️ Victoria Already Has a Human-Rights Standard
+
+The **Charter of Human Rights and Responsibilities Act 2006 (Vic)** includes:
+
+- **Section 10** — protection from torture and cruel, inhuman or degrading treatment
+- **Section 21** — right to liberty and security of the person
+- **Section 22** — humane treatment when deprived of liberty
+
+Section 10 is especially important when examining allegations involving medical or psychiatric treatment.
+
+---
+
+# 🏥 The Conflict I Want Examined
+
+My argument is **not simply that compulsory mental-health treatment equals torture**.
+
+My argument is this:
+
+### If Victoria's mental-health system allows circumstances where a person is:
+
+- subjected to coercive intervention;
+- deprived of meaningful control over their treatment;
+- repeatedly subjected to unwanted interventions;
+- detained or otherwise deprived of liberty; and
+- subjected to severe and prolonged physical or psychological suffering;
+
+then the question must be asked:
+
+> ## **At what point does "treatment" become cruel, inhuman or degrading treatment, or torture?**
+
+And, just as importantly:
+
+> ## **Are the safeguards in the Mental Health and Wellbeing Act 2022 actually sufficient to prevent that from happening?**
+
+---
+
+# 🌍 International Human Rights
+
+The prohibition against torture does not disappear simply because the person concerned is a psychiatric patient.
+
+Relevant international standards include:
+
+- **Article 5 — Universal Declaration of Human Rights**
+- **Article 7 — International Covenant on Civil and Political Rights (ICCPR)**
+- **UN Convention Against Torture (CAT)**
+
+The legal definition of torture has specific requirements. Severe suffering alone does not automatically establish torture.
+
+Factors including **purpose, severity, circumstances, responsibility and official involvement** matter.
+
+---
+
+# 🇦🇺 Torture Is Also Addressed by Australian Criminal Law
+
+Australia's **Criminal Code Act 1995 (Cth), Division 274** contains a specific torture offence.
+
+That offence applies where its particular legal requirements are satisfied, including requirements concerning:
+
+- severe physical or mental pain or suffering;
+- particular purposes such as punishment, intimidation or coercion; and
+- the required connection with a public official or person acting in an official capacity.
+
+---
+
+# 🔎 What I Am Asking For
+
+I believe the interaction between the **Mental Health and Wellbeing Act 2022**, Victoria's Charter, Commonwealth criminal law and Australia's international human-rights obligations deserves much closer scrutiny.
+
+This archive documents my own experiences, records, research and allegations.
+
+I want the underlying evidence examined independently.
+
+## The fundamental question is simple:
+
+> # If a system designed to provide mental-health care can be used in a way that causes severe and prolonged suffering, who determines when treatment has crossed the line into a human-rights violation?
+
+---
+
+### ⚠️ Important
+
+Nothing on this page should be interpreted as saying that every use of compulsory mental-health powers constitutes torture.
+
+Rather, I am arguing that **no mental-health law should ever operate as a shield for conduct that would otherwise constitute torture or cruel, inhuman or degrading treatment**.
+
+The question is whether Victoria's safeguards are strong enough to ensure that boundary is never crossed.
+
 # Human Rights Framework
 
 > **Important:** This page describes the legal framework that could apply **if allegations of non-consensual medical procedures, torture, coercion, or other mistreatment were established by evidence**. It does not, by itself, establish that those events occurred.
