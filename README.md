@@ -6,13 +6,13 @@ This is basically a **brain dump from the last four years**: my experiences, tho
 
 This is actually the **second time I've done this**. My original GitHub account, **[@gusswendson](https://<scrubbed-url-domain>/gusswendson)**, was cut off after my account was compromised. I'm rebuilding the archive here so the journey can continue in one place.
 
-👉 **[Start here and follow my journey](./start%20here)**
+👉 **[Start here and follow my journey](./start%20here.pdf)**
 
 Don't treat this as a polished final account. It's an evolving archive of what I've collected, remembered, questioned and researched over the last four years.
 
 ## 🧭 Explore the Brain Dump
 
-- 📖 **[Start Here](./start%20here)**
+- 📖 **[Start Here](./start%20here.pdf)**
 - 📚 **[Documentation](./Documentation/)**
 - 📱 **[Devices](./Devices/)**
 - 📸 **[Photos](./Photos/)**
