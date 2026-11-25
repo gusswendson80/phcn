@@ -26,4 +26,4 @@ Don't treat this as a polished final account. It's an evolving archive of what I
 
 ### A quick note
 
-This repository is a personal brain dump and archive. It contains my experiences, recollections, research and interpretations alongside source material. Claims or disputed events described here represent my perspective unless independently verified by supporting evidence.
+This repository is a personal brain dump and archive. It contains my experiences, recollections, research and interpretations alongside source material. Claims or disputed events described here represent my perspective.
