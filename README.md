@@ -1,3 +1,8 @@
+Welcome to the house of fun...
+[Documentation](Documentation/)
+
+
+
 - This has been the last 4 years. 
 - Battling bribed doctors and radiologists and corrupt politicians & government bodies.
 - The big build is involved. the building fund at peninsula health for the new building needs to be looked at.
