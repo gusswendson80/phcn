@@ -1,14 +1,16 @@
 # Start Here 👋
 
-## My Journey: The Last 4 Years
+## A Brain Dump From the Last 4 Years 🧠
 
-This repository brings together the material I have collected over the last **four years**.
+This is basically a **brain dump from the last four years**: my experiences, thoughts, research, documents, photos, recordings and everything else I've collected along the way.
+
+This is actually the **second time I've done this**. My original GitHub account, **[@gusswendson](https://<scrubbed-url-domain>/gusswendson)**, was cut off after my account was compromised. I'm rebuilding the archive here so the journey can continue in one place.
 
 👉 **[Start here and follow my journey](./start%20here)**
 
-From there, you can work through the material and form your own view of what it shows.
+Don't treat this as a polished final account. It's an evolving archive of what I've collected, remembered, questioned and researched over the last four years.
 
-## 🧭 Explore the Archive
+## 🧭 Explore the Brain Dump
 
 - 📖 **[Start Here](./start%20here)**
 - 📚 **[Documentation](./Documentation/)**
@@ -19,8 +21,8 @@ From there, you can work through the material and form your own view of what it 
 
 ---
 
-> **Start at the beginning. Follow the journey. Examine the material for yourself.**
+> **Start wherever you want. Follow the rabbit holes. Look through the material. Make up your own mind.**
 
-### About this repository
+### A quick note
 
-This is a personal archive of material relating to my experiences, research and journey over the last four years. Where the repository discusses allegations, interpretations or disputed events, they should be read as such unless supported by independently verifiable evidence.
+This repository is a personal brain dump and archive. It contains my experiences, recollections, research and interpretations alongside source material. Claims or disputed events described here represent my perspective unless independently verified by supporting evidence.
