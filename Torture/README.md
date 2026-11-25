@@ -1,7 +1,5 @@
 # Torture
 
-Automatically refreshed folder index.
+## File index
 
-## Files
-
-- [what they played sometimes via the mei.mp4](<what they played sometimes via the mei.mp4>)
+- [what they played sometimes via the mei.mp4](./what%20they%20played%20sometimes%20via%20the%20mei.mp4)

@@ -1,7 +1,5 @@
 # Recordings
 
-Automatically refreshed folder index.
+## File index
 
-## Files
-
-- [New Recording.m4a](<New Recording.m4a>)
+- [New Recording.m4a](./New%20Recording.m4a)
