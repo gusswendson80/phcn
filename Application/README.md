@@ -2,6 +2,9 @@
 
 ## File index
 
+- [1  designing the system.pdf](./1%20%20designing%20the%20system.pdf)
+- [2  the cookbook.pdf](./2%20%20the%20cookbook.pdf)
+- [3  the harm this AI system causes.pdf](./3%20%20the%20harm%20this%20AI%20system%20causes.pdf)
 - [Echo Chambe 2.0.pdf](./Echo%20Chambe%202.0.pdf)
 - [Echo Chamber Psychological Effects.pdf](./Echo%20Chamber%20Psychological%20Effects.pdf)
 - [God Complex.pdf](./God%20Complex.pdf)
@@ -12,9 +15,6 @@
 - [Mk Ultra - The playbook.pdf](./Mk%20Ultra%20-%20The%20playbook.pdf)
 - [Potential Misuse of Direct Thought Programming.pdf](./Potential%20Misuse%20of%20Direct%20Thought%20Programming.pdf)
 - [Psychology of AI-Mediated Echo Chambers.pdf](./Psychology%20of%20AI-Mediated%20Echo%20Chambers.pdf)
-- [designing the system.pdf](./designing%20the%20system.pdf)
 - [dodgy_isos_curated_from_fetchtv_locally.txt](./dodgy_isos_curated_from_fetchtv_locally.txt)
 - [more on the echo chamber effect.pdf](./more%20on%20the%20echo%20chamber%20effect.pdf)
 - [start here.pdf](./start%20here.pdf)
-- [the cookbook.pdf](./the%20cookbook.pdf)
-- [the harm this AI system causes.pdf](./the%20harm%20this%20AI%20system%20causes.pdf)
