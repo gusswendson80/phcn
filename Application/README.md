@@ -5,6 +5,7 @@
 - [1  designing the system.pdf](./1%20%20designing%20the%20system.pdf)
 - [2  the cookbook.pdf](./2%20%20the%20cookbook.pdf)
 - [3  the harm this AI system causes.pdf](./3%20%20the%20harm%20this%20AI%20system%20causes.pdf)
+- [4  why they did it.pdf](./4%20%20why%20they%20did%20it.pdf)
 - [Echo Chambe 2.0.pdf](./Echo%20Chambe%202.0.pdf)
 - [Echo Chamber Psychological Effects.pdf](./Echo%20Chamber%20Psychological%20Effects.pdf)
 - [God Complex.pdf](./God%20Complex.pdf)
