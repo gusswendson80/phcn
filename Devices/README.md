@@ -1,6 +1,7 @@
-# Devices Directory Index
+# Devices
 
-## Files
+## File index
+
 - [Abbott DBS Models Research.pdf](./Abbott%20DBS%20Models%20Research.pdf)
 - [Envoy Medical Devices Overview.pdf](./Envoy%20Medical%20Devices%20Overview.pdf)
 - [Esteem-graphic.jpg](./Esteem-graphic.jpg)
