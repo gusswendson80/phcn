@@ -1,4 +1,5 @@
-# Recordings Directory Index
+# Recordings
 
-## Files
+## File index
+
 - [New Recording.m4a](./New%20Recording.m4a)

@@ -1,6 +1,7 @@
-# Photos Directory Index
+# Photos
 
-## Files
+## File index
+
 - [23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png](./23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png)
 - [IMG_0004.JPG](./IMG_0004.JPG)
 - [IMG_0052.PNG](./IMG_0052.PNG)
