@@ -4,7 +4,7 @@
 
 This is basically a **brain dump from the last four years**: my experiences, thoughts, research, documents, photos, recordings and everything else I've collected along the way.
 
-This is actually the **second time I've done this**. My original GitHub account, **[@gusswendson](https://<scrubbed-url-domain>/gusswendson)**, was cut off after my account was compromised. I'm rebuilding the archive here so the journey can continue in one place.
+This is actually the **second time I've done this**. My original GitHub account, **[@gusswendson](https://<scrubbed-url-domain>/gusswendson)**, was cut off after my account was compromised. I'm rebuilding the archive here so the journey can continue in one place. I wonder if @github could help me recover @gusswendson.
 
 👉 **[Start here and follow my journey](./start%20here.pdf)**
 
