@@ -17,7 +17,7 @@ Don't treat this as a polished final account. It's an evolving archive of what I
 - 📱 **[Devices](./Devices/)**
 - 📸 **[Photos](./Photos/)**
 - 🎙️ **[Recordings](./Recordings/)**
-- ⚖️ **[Human Rights](./humanrights)**
+- ⚖️ **[Human Rights](./humanrights.md)**
 - :skull: **[Torture](./Torture/)**
 
 ---
