@@ -23,3 +23,4 @@
 - [dodgy_isos_curated_from_fetchtv_locally.txt](./dodgy_isos_curated_from_fetchtv_locally.txt)
 - [more on the echo chamber effect.pdf](./more%20on%20the%20echo%20chamber%20effect.pdf)
 - [start here.pdf](./start%20here.pdf)
+- [telstra iot pricing.pdf](./telstra%20iot%20pricing.pdf)

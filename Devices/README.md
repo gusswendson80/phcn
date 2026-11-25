@@ -1,10 +1,8 @@
-# Devices
-
-## File index
+# Devices index
 
 - [Abbott DBS Models Research.pdf](./Abbott%20DBS%20Models%20Research.pdf)
-- [Compare implantable medical battery chemistries (... (1).pdf](./Compare%20implantable%20medical%20battery%20chemistries%20%28...%20%281%29.pdf)
-- [Compare implantable medical battery chemistries (....pdf](./Compare%20implantable%20medical%20battery%20chemistries%20%28....pdf)
+- [Compare implantable medical battery chemistries (... (1).pdf](./Compare%20implantable%20medical%20battery%20chemistries%20(...%20(1).pdf)
+- [Compare implantable medical battery chemistries (....pdf](./Compare%20implantable%20medical%20battery%20chemistries%20(....pdf)
 - [DBS Companies in Macquarie Park.pdf](./DBS%20Companies%20in%20Macquarie%20Park.pdf)
 - [Envoy Medical Devices Overview.pdf](./Envoy%20Medical%20Devices%20Overview.pdf)
 - [Envoy Medical Share Price Decline 1.pdf](./Envoy%20Medical%20Share%20Price%20Decline%201.pdf)
@@ -19,7 +17,7 @@
 - [envoy more details look at the tga date.pdf](./envoy%20more%20details%20look%20at%20the%20tga%20date.pdf)
 - [esteeem1.jpg](./esteeem1.jpg)
 - [esteem implant.png](./esteem%20implant.png)
-- [investigate tiny iot 4t lte-m devices that could... (2).pdf](./investigate%20tiny%20iot%204t%20lte-m%20devices%20that%20could...%20%282%29.pdf)
+- [investigate tiny iot 4t lte-m devices that could... (2).pdf](./investigate%20tiny%20iot%204t%20lte-m%20devices%20that%20could...%20(2).pdf)
 - [investigate tiny iot 4t lte-m devices that could....pdf](./investigate%20tiny%20iot%204t%20lte-m%20devices%20that%20could....pdf)
 - [iot.pdf](./iot.pdf)
 - [who could it be now.pdf](./who%20could%20it%20be%20now.pdf)
