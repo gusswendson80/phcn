@@ -1,3 +1,29 @@
-- This has been the last 4 years. 
-- Battling bribed doctors and radiologists and corrupt politicians & government bodies.
-- The big build is involved. the building fund at peninsula health for the new building needs to be looked at.
+# Start Here 👋
+
+## A Brain Dump From the Last 4 Years 🧠
+
+This is basically a **brain dump from the last four years**: my experiences, thoughts, research, documents, photos, recordings and everything else I've collected along the way.
+
+This is actually the **second time I've done this**. My original GitHub account, **[@gusswendson](https://<scrubbed-url-domain>/gusswendson)**, was cut off after my account was compromised. I'm rebuilding the archive here so the journey can continue in one place.
+
+👉 **[Start here and follow my journey](./start%20here.pdf)**
+
+Don't treat this as a polished final account. It's an evolving archive of what I've collected, remembered, questioned and researched over the last four years.
+
+## 🧭 Explore the Brain Dump
+
+- 📖 **[Start Here](./start%20here.pdf)**
+- 📚 **[Documentation](./Documentation/)**
+- 📱 **[Devices](./Devices/)**
+- 📸 **[Photos](./Photos/)**
+- 🎙️ **[Recordings](./Recordings/)**
+- ⚖️ **[Human Rights](./humanrights.md)**
+- :skull: **[Torture](./Torture/)**
+
+---
+
+> **Start wherever you want. Follow the rabbit holes. Look through the material. Make up your own mind.**
+
+### A quick note
+
+This repository is a personal brain dump and archive. It contains my experiences, recollections, research and interpretations alongside source material. Claims or disputed events described here represent my perspective.
