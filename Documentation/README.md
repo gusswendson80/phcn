@@ -1,6 +1,4 @@
-# Documentation
-
-## File index
+# Documentation Index
 
 - [A Swendson MH discharge summary 27-3-26.pdf](./A%20Swendson%20MH%20discharge%20summary%2027-3-26.pdf)
 - [AS DC summary 02-09-2026.pdf](./AS%20DC%20summary%2002-09-2026.pdf)

@@ -1,6 +1,4 @@
-# Photos
-
-## File index
+# Photos Index
 
 - [23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png](./23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png)
 - [IMG_0004.JPG](./IMG_0004.JPG)

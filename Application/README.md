@@ -1,6 +1,4 @@
-# Application
-
-## File index
+# Application Index
 
 - [1  designing the system.pdf](./1%20%20designing%20the%20system.pdf)
 - [2  the cookbook.pdf](./2%20%20the%20cookbook.pdf)
@@ -12,6 +10,7 @@
 - [8  i think theyre up to something.pdf](./8%20%20i%20think%20theyre%20up%20to%20something.pdf)
 - [Echo Chambe 2.0.pdf](./Echo%20Chambe%202.0.pdf)
 - [Echo Chamber Psychological Effects.pdf](./Echo%20Chamber%20Psychological%20Effects.pdf)
+- [Echo chamber 3.0.pdf](./Echo%20chamber%203.0.pdf)
 - [Effects of Continuous Pink and White Noise.pdf](./Effects%20of%20Continuous%20Pink%20and%20White%20Noise.pdf)
 - [God Complex.pdf](./God%20Complex.pdf)
 - [Infrasound.pdf](./Infrasound.pdf)
