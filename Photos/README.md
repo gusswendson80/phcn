@@ -1,13 +1,11 @@
 # Photos
 
-Automatically refreshed folder index.
+## File index
 
-## Files
-
-- [23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png](23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png)
-- [IMG_0004.JPG](IMG_0004.JPG)
-- [IMG_0052.PNG](IMG_0052.PNG)
-- [IMG_0053.PNG](IMG_0053.PNG)
-- [IMG_0056.PNG](IMG_0056.PNG)
-- [IMG_0057.PNG](IMG_0057.PNG)
-- [IMG_0058.PNG](IMG_0058.PNG)
+- [23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png](./23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png)
+- [IMG_0004.JPG](./IMG_0004.JPG)
+- [IMG_0052.PNG](./IMG_0052.PNG)
+- [IMG_0053.PNG](./IMG_0053.PNG)
+- [IMG_0056.PNG](./IMG_0056.PNG)
+- [IMG_0057.PNG](./IMG_0057.PNG)
+- [IMG_0058.PNG](./IMG_0058.PNG)
