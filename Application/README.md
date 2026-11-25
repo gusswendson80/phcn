@@ -8,6 +8,7 @@
 - [6  The Problem with the MEI BCI AI Situation.pdf](./6%20%20The%20Problem%20with%20the%20MEI%20BCI%20AI%20Situation.pdf)
 - [7  why they used azure.pdf](./7%20%20why%20they%20used%20azure.pdf)
 - [8  i think theyre up to something.pdf](./8%20%20i%20think%20theyre%20up%20to%20something.pdf)
+- [constant repitition over the mei leads to.pdf](./constant%20repitition%20over%20the%20mei%20leads%20to.pdf)
 - [Echo Chambe 2.0.pdf](./Echo%20Chambe%202.0.pdf)
 - [Echo chamber 3.0.pdf](./Echo%20chamber%203.0.pdf)
 - [echo chamber 4.0.pdf](./echo%20chamber%204.0.pdf)
