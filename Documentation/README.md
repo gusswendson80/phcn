@@ -12,6 +12,7 @@
 - [AS dc summary 11-2025.pdf](./AS%20dc%20summary%2011-2025.pdf)
 - [Concise Summaries of Everything.pdf](./Concise%20Summaries%20of%20Everything.pdf)
 - [FOI -Decision-letter.pdf](./FOI%20-Decision-letter.pdf)
+- [SPOS report - Angus Swendson 03.10.25.pdf](./SPOS%20report%20-%20Angus%20Swendson%2003.10.25.pdf)
 - [doctored medical file as provided by peninsula health.pdf](./doctored%20medical%20file%20as%20provided%20by%20peninsula%20health.pdf)
 - [dodgy_isos_curated_from_fetchtv_locally.txt](./dodgy_isos_curated_from_fetchtv_locally.txt)
 - [start here.pdf](./start%20here.pdf)
