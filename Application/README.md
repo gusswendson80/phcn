@@ -9,6 +9,7 @@
 - [5  JRT the wonderdrug for schizophrenia - used on me Peninsula Health Bayside Care Group.pdf](./5%20%20JRT%20the%20wonderdrug%20for%20schizophrenia%20-%20used%20on%20me%20Peninsula%20Health%20Bayside%20Care%20Group.pdf)
 - [6  The Problem with the MEI BCI AI Situation.pdf](./6%20%20The%20Problem%20with%20the%20MEI%20BCI%20AI%20Situation.pdf)
 - [7  why they used azure.pdf](./7%20%20why%20they%20used%20azure.pdf)
+- [8  i think theyre up to something.pdf](./8%20%20i%20think%20theyre%20up%20to%20something.pdf)
 - [Echo Chambe 2.0.pdf](./Echo%20Chambe%202.0.pdf)
 - [Echo Chamber Psychological Effects.pdf](./Echo%20Chamber%20Psychological%20Effects.pdf)
 - [Effects of Continuous Pink and White Noise.pdf](./Effects%20of%20Continuous%20Pink%20and%20White%20Noise.pdf)
