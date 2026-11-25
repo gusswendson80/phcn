@@ -18,7 +18,7 @@ Don't treat this as a polished final account. It's an evolving archive of what I
 - 📸 **[Photos](./Photos/)**
 - 🎙️ **[Recordings](./Recordings/)**
 - ⚖️ **[Human Rights](./humanrights.md)**
-- :eyes: **[Application](./Applcation/)
+- :eyes: **[Application](./Applcation/)**
 - :skull: **[Torture](./Torture/)**
 
 ---
