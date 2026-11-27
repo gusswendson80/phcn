@@ -1,9 +1,13 @@
 # Photos Index
 
-- [23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png](./23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png)
-- [IMG_0004.JPG](./IMG_0004.JPG)
-- [IMG_0052.PNG](./IMG_0052.PNG)
-- [IMG_0053.PNG](./IMG_0053.PNG)
-- [IMG_0056.PNG](./IMG_0056.PNG)
-- [IMG_0057.PNG](./IMG_0057.PNG)
-- [IMG_0058.PNG](./IMG_0058.PNG)
+Automatically refreshed index of files in this directory.
+
+## Images
+
+- [23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png](23c9ad15-70c6-4747-ac6b-395c575fdbca.jpg.png)
+- [IMG_0052.PNG](IMG_0052.PNG)
+- [IMG_0053.PNG](IMG_0053.PNG)
+- [IMG_0056.PNG](IMG_0056.PNG)
+- [IMG_0057.PNG](IMG_0057.PNG)
+- [IMG_0058.PNG](IMG_0058.PNG)
+- [mri.JPG](mri.JPG)
